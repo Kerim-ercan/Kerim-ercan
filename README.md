@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-header.svg" alt="Kerim Ercan — Computer Engineering at MEF University. Computer Vision, Machine Learning and Parallel Computing. Open to internships." width="100%" />
+  <img src="./profile-motion.gif" alt="Kerim Ercan — animated engineering portfolio. Computer Engineering at MEF University, class of 2027. Computer vision, machine learning and parallel computing. Open to internships." width="100%" />
 </p>
 
 <p align="center">
@@ -28,13 +28,10 @@ My projects connect **machine learning with working applications**: image and au
 
 ## Technical toolkit
 
-- **Programming:** Python, C, C++, Bash
-- **Computer vision & ML:** OpenCV, TensorFlow/Keras, PyTorch, NumPy, pandas, scikit-learn
-- **Systems & tools:** Linux, Git, Docker, OpenMP, Apptainer, Slurm
+<p align="center">
+  <img src="./toolkit.svg" alt="Python, C, C++, OpenCV, TensorFlow, PyTorch, Bash, Git, Linux, Docker, OpenMP and Slurm" width="100%" />
+</p>
 
-## Current focus
-
-- Parallel computing: correctness checks, repeatable experiments and containerized execution on HPC systems.
-- Applied ML: connecting preprocessing, inference and evaluation to usable applications.
+**Also used in my projects:** Keras · NumPy · pandas · scikit-learn · Librosa · Apptainer
 
 Interested in my work or an internship opportunity? **[Let's connect on LinkedIn.](https://www.linkedin.com/in/kerim-ercan)**
