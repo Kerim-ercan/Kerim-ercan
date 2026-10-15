@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-motion.gif" alt="Kerim Ercan — animated engineering portfolio. Computer Engineering at MEF University, class of 2027. Computer vision, machine learning and parallel computing. Open to internships." width="100%" />
+  <img src="./profile-motion.gif?v=f13999f" alt="Kerim Ercan — animated engineering portfolio. Computer Engineering at MEF University, class of 2027. Computer vision, machine learning and parallel computing. Open to internships." width="100%" />
 </p>
 
 <p align="center">
